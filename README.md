@@ -30,7 +30,8 @@
   I have worked previous projects that utilized R, but I am trying to familiarize myself with Python's many libraries for data science. 
 
 
-- 📫 How to reach me ...
+- 📫 How to reach me:
+  + For now, please reach me via GitHub, as I do not wish to put any other contact information on the web. 
 
 
 
