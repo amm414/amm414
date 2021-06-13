@@ -14,7 +14,7 @@ My 1-page Resume (pretty generic and broad) [PDF](/GenericAndrewMorganResume.pdf
 
 My Extended Resume with more Elaboration on Skills, Projects, and Abilities [PDF](/ExtendedResume.pdf) and [DOCX](/ExtendedResume.docx)
 
-A (Markdown Version)[/resume.md] of my 1-page Resume (this one may not always be up to date...I will try)
+A [Markdown Version](/resume.md) of my 1-page Resume (this one may not always be up to date...I will try)
 
 &nbsp;
 
