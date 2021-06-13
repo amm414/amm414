@@ -3,10 +3,14 @@
 I graduated from Pitt in the Winter of 2019. I have a double major in Computer Science and Economics-Statistics. I have been unable to work since 2019 because I have been caretaking for my disabled mother (Multiple Sclerosis) since the Covid-19 pandemic began. 
 
 
-- 📫 How to reach me:
-  + For now, please reach me via GitHub or [LinkedIn](https://linkedin.com/in/andrew-morgan-78224b1a4)
+📫 How to reach me:
+- For now, please reach me via GitHub or [LinkedIn](https://linkedin.com/in/andrew-morgan-78224b1a4)
 
+Content: 
 - [My Website](https://andrew-morgan-website.herokuapp.com) hosted by Heroku (https://andrew-morgan-website.herokuapp.com)
+- Resumes on my account (should appear above)
+- My 1-page Resume (pretty generic and broad)[PDF](/GenericAndrewMorganResume.pdf) and [DOCX](/GenericAndrewMorganResume.docx)
+- My Extended Resume with more Elaboration on Skills, Projects, and Abilities [PDF](/ExtendedResume.pdf) and [DOCX](/ExtendedResume.docx)
 
 &nbsp;
 
