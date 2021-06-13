@@ -2,7 +2,7 @@
 
 
 - 📫 How to reach me:
-  + For now, please reach me via GitHub or [LinkedIn](www.linkedin.com/in/andrew-morgan-78224b1a4)
+  + For now, please reach me via GitHub or [LinkedIn](https://linkedin.com/in/andrew-morgan-78224b1a4)
 
 - [My Website](https://andrew-morgan-website.herokuapp.com) hosted by Heroku (https://andrew-morgan-website.herokuapp.com)
 
