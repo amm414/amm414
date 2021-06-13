@@ -6,7 +6,9 @@ Phone Number: (412) 651-8221 [Personal Website: https://andrew-morgan-website.he
 
 U.S. Citizen Pittsburgh, PA 15232
 
-I am a creative, detail-oriented, motivated data scientist and software developer. I have been unable to work since 2019 because I have been caretaking for my disabled mother (Multiple Sclerosis) since the Covid-19 pandemic began.
+### Short About-Me
+
+I am a creative, detail-oriented, motivated data scientist, economists, and software developer (or engineer). I have been unable to work since 2019 because I have been caretaking for my disabled mother (Multiple Sclerosis) since the Covid-19 pandemic began. 
 
 ## EDUCATION
 
