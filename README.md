@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @amm414. I graduated from Pitt in the Winter of 2019. I have a double major in Computer Science and Economics-Statistics. I have been unable to work since 2019 because I have been caretaking for my disabled mother (Multiple Sclerosis) since the Covid-19 pandemic began. 
+# 👋 Hi, I’m @amm414.
+
+I graduated from Pitt in the Winter of 2019. I have a double major in Computer Science and Economics-Statistics. I have been unable to work since 2019 because I have been caretaking for my disabled mother (Multiple Sclerosis) since the Covid-19 pandemic began. 
 
 
 - 📫 How to reach me:
@@ -11,6 +13,8 @@
 &nbsp;
 
 &nbsp;
+
+### Now A little about my interests:
 
 - 👀 I’m interested in many different areas. 
  
