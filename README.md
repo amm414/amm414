@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @amm414. I graduated from Pitt in the winter of 2019. I have a double major in Computer Science and Economics-Statistics. 
+- 👋 Hi, I’m @amm414. I graduated from Pitt in the Winter of 2019. I have a double major in Computer Science and Economics-Statistics. I have been unable to work since 2019 because I have been caretaking for my disabled mother (Multiple Sclerosis) since the Covid-19 pandemic began. 
 
+
+- 📫 How to reach me:
+  + For now, please reach me via GitHub or [LinkedIn](www.linkedin.com/in/andrew-morgan-78224b1a4)
 
 - 👀 I’m interested in many different areas. 
  
@@ -28,11 +31,6 @@
   
   + Data Science techniques utilizing Python. Primarily to analyze education and income/wealth data from the Census and Bureau of Labor Statistics. 
   I have worked previous projects that utilized R, but I am trying to familiarize myself with Python's many libraries for data science. 
-
-
-- 📫 How to reach me:
-  + For now, please reach me via GitHub, as I do not wish to put any other contact information on the web. 
-
 
 
 
