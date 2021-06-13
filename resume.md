@@ -1,8 +1,12 @@
 # Andrew Morgan
 
-Email: [andrew.morgan11z@gmail.com](mailto:andrew.morgan11z@gmail.com) [GitHub: https://github.com/amm414/](https://github.com/amm414/)
+Email: [andrew.morgan11z@gmail.com](mailto:andrew.morgan11z@gmail.com) 
 
-Phone Number: (412) 651-8221 [Personal Website: https://andrew-morgan-website.herokuapp.com/](https://andrew-morgan-website.herokuapp.com/)
+[GitHub: https://github.com/amm414/](https://github.com/amm414/)
+
+Phone Number: (412) 651-8221 
+
+[Personal Website: https://andrew-morgan-website.herokuapp.com/](https://andrew-morgan-website.herokuapp.com/)
 
 U.S. Citizen Pittsburgh, PA 15232
 
