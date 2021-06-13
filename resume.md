@@ -8,7 +8,7 @@ U.S. Citizen Pittsburgh, PA 15232
 
 I am a creative, detail-oriented, motivated data scientist and software developer. I have been unable to work since 2019 because I have been caretaking for my disabled mother (Multiple Sclerosis) since the Covid-19 pandemic began.
 
-### EDUCATION
+## EDUCATION
 
 **Bachelor of Science** : **Economics-Statistics** and **Computer Science**
 
@@ -22,7 +22,7 @@ University of Pittsburgh December 2019
 
 - Coursework: Software Engineering, Database Management, Statistical Learning, Artificial Intelligence
 
-### WORK EXPERIENCE
+## WORK EXPERIENCE
 
 **Frontend Developer** and **Project Liaison** , The Process Consultant, Pittsburgh, PA 05/2019 – 08/2019
 
@@ -38,7 +38,7 @@ University of Pittsburgh December 2019
 
 **Barista** , Crazy Mocha, Pittsburgh, PA 08/2016 – 10/2018
 
-### SKILLS
+## SKILLS
 
 **Programming Languages** : Python, Java, JavaScript, Ruby, C, R, MATLAB, HTML5, CSS
 
@@ -48,7 +48,7 @@ University of Pittsburgh December 2019
 
 **Data Analysis Skills** : Linear Regression, Bootstrapping (cross-validation), Model Selection, Bias-Variance Tradeoff, Ensemble Methods, SVMs, CNNs, Agent-Based Modeling, Time Series Analysis, Dimension Reduction Methods
 
-### PROJECTS and DATA ANALYSES
+## PROJECTS and DATA ANALYSES
 
 **Website Tracker Application**
 
