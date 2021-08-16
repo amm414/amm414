@@ -12,7 +12,7 @@ For now, please reach me via GitHub or [LinkedIn](https://linkedin.com/in/andrew
 
 [My Website](https://andrew-morgan-website.herokuapp.com) hosted by Heroku (https://andrew-morgan-website.herokuapp.com)
 
-My 1-page Resume (pretty generic and broad) [PDF](/Andrew_Morgan_Resume.pdf) and [DOCX](/Andrew_Morgan_Resume.docx)
+My 1-page Resume [PDF](/Andrew_Morgan_Resume.pdf) and [DOCX](/Andrew_Morgan_Resume.docx)
 
 My Extended Resume with more Elaboration on Skills, Projects, and Abilities [PDF](/ExtendedResume.pdf) and [DOCX](/ExtendedResume.docx)
 
