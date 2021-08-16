@@ -22,7 +22,7 @@ A [Markdown Version](/resume.md) of my 1-page Resume (this one may not always be
 
 ## Other Content
 
-This section is a work in progress and not neccessarily updated in a timely fashion. Therefore, I recommend learning more about myself from my Website https://andrew-morgan-website.herokuapp.com or just browse my GitHub profile.
+This section is a work in progress and not neccessarily updated in a timely fashion. Therefore, I recommend learning more about myself from my Website https://andrew-morgan-website.herokuapp.com.
 
 ### Now A little about my interests:
 
@@ -53,6 +53,20 @@ This section is a work in progress and not neccessarily updated in a timely fash
   
   + Data Science techniques utilizing Python. Primarily to analyze education and income/wealth data from the Census and Bureau of Labor Statistics. 
   I have worked previous projects that utilized R, but I am trying to familiarize myself with Python's many libraries for data science. 
+
+- My Future Plans:
+  
+  + Utilize **Django** as backend framework for my website using RESTful API to manage interactions from frontend and users with backend and database. This migration from Flask to Django will take time. I hope to finish the migration by sometime in November (basically 2-3 months depending on other commitments).
+  
+  +  Improve the Agent-Based Modeling framework I am developing. I will release it as a seperate GitHub Repo and link it above. This is a personal interest of mine as it combines economics, macro-level trends, statistics and probability, and artificial intelligence. Additionally, there is not much open-source content for me to rely on, meaning I often am implementing not many others have done before me.
+  
+  +  Start my academic blog posts focusing on wage/income, wealth, education, economic growth, level of country's citizen satistifaction, and other macroeconomic metrics. Namely, I will focus on Education, Majors, and Degrees VS Wage, Income, and Wealth.
+  
+  + Improve my Website Tracker Application for managing the content updates, content metadata (like descriptions), bug reports, feature requests, users, and development log (new component). This will be done as I transition over to Django.
+  
+  + Frontend revitalized! I will refactor my frontend and content on the website as I transition to Django. I will initially use a similar frontend templating language similar to Jinja for Flask applications. This will be done when the Django application is launched. 
+  
+  + Frontend Upgrade! I hope to eventually implement a React (most likely; possibly Vue) frontend to connect to the Restful API. This task will take time and most likely will be for next year. Largely depends on time commitments, how involved my content gets (like agent-based modeling and analyzing economic data), and the amount of time it takes to transition to Django.
 
 
 
