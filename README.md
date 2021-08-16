@@ -1,6 +1,8 @@
 # 👋 Hi, I’m @amm414.
 
-I graduated from Pitt in the Winter of 2019. I have a double major in Computer Science and Economics-Statistics. I have been unable to work since 2019 because I have been caretaking for my disabled mother (Multiple Sclerosis) since the Covid-19 pandemic began. 
+## A little about myself ...
+
+I am a motivated, passionate, analytical data scientist, economist, and software developer. I graduated with a double major from the University of Pittsburgh in Economics-Statistics and Computer Science. My philosophy is to keep learning new skills and refining existing skills as business needs and technology rapidly change. I have been unable to work since the beginning of the Covid-19 pandemic because of caretaking responsibilities for my disabled mother (Multiple Sclerosis) and recovery of a torn labrum surgery (shoulder).  
 
 ## 📫 How to reach me
 
