@@ -16,7 +16,16 @@ My 1-page Resume [PDF](/Andrew_Morgan_Resume.pdf) and [DOCX](/Andrew_Morgan_Resu
 
 My Extended Resume with more Elaboration on Skills, Projects, and Abilities [PDF](/ExtendedResume.pdf) and [DOCX](/ExtendedResume.docx)
 
-A [Markdown Version](/resume.md) of my 1-page Resume (this one may not always be up to date...I will try)
+&nbsp;
+
+## Other Repositories:
+
+#### [CraigVersity](https://github.com/amm414/CS1530-Software-Engineering-Project): the repository holding the source code, documentation, testing, and other miscellaneous content surrounding the Fall 2019 software engineering project done as a group of 5 at Pitt. 
+
+#### [My Project Repository](https://github.com/amm414/Projects): a repository that collects many different types of content largely found on my [personal website](https://andrew-morgan-website.herokuapp.com). 
+
+#### [Agent-Based Modeling](https://github.com/amm414/Agent-Based-Modeling): a repository on simulating worlds of autonomous agents that make decisions. Typically used to analyze the resulting system-level patterns that emerge and are present.
+
 
 &nbsp;
 
