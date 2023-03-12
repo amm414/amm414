@@ -2,7 +2,7 @@
 
 ## A little about myself ...
 
-I am a motivated, passionate, analytical data scientist, economist, and software developer. I graduated with a double major from the University of Pittsburgh in Economics-Statistics and Computer Science. My philosophy is to keep learning new skills and refining existing skills as business needs and technology rapidly change. I have been unable to work since the beginning of the Covid-19 pandemic because of caretaking responsibilities for my disabled mother (Multiple Sclerosis) and recovery of a torn labrum surgery (shoulder).  
+I am motivated to solve complex business problems with software and data. While I am interested in software development, I graduated with a double major from the University of Pittsburgh in Economics-Statistics and Computer Science. My philosophy follows the life-long learner mentality. I desire to continue growing, learning, and improving both professionally and personally. I hope to deliver results for businesses that improve efficiency, productivity, and improving the world one commit at a time!  
 
 ## 📫 How to reach me
 
@@ -18,6 +18,32 @@ My Extended Resume with more Elaboration on Skills, Projects, and Abilities [PDF
 
 &nbsp;
 
+### Now A little about my interests:
+
+- 👀 I’m interested in many different areas. 
+ 
+  + In developing software that improves productivity and efficiency. I believe software is critical in all industries and is key for the future as population stagnates and declines. 
+  + In manipulating, organizing, aggregating, and understanding large amounts of data. 
+  + In backend development where I am "closer" to the data and have more responsibility for organizing it in a proper way that is scalable and maintainable. 
+  + In machine learning and AI; though more from a data analysis perspective, rather than self-driving car perspective. I believe AI and machine learning will deliver huge benefits over the coming decade allowing people to become more productive than before.
+  + In utility theory and behavior economics. These directly connect with my underlying interest in Artificial Intelligence as these areas of economics can help improve AI models and agents.
+  + In macroeconomic trends and events. Some macroeconomic trends and events that interest me are the 2008 recession and financial collaspe, 
+  income and wealth trends, and the effects and evolution of education on the GDP and global markets. 
+
+- 🌱 I’m currently learning and improving:
+  
+  + Angular and its many components. I have only about 1 year of work experience, and I realize I have soo much more to learn!
+  + Dynamic and reactive website design. It is critical for my current role as a Frontend Developer for Artech at Google.
+  + About various economic theories and following economic events. Though unrelated to software, I believe being more holistic will benefit myself and my work.
+  
+## Future Plans
+
+- Rewrite my website. I wish to follow better practices and have unit testing from the beginning / launch. Additionally, I would like to use Angular on the frontend and either Python (Fast API or Django), C#, or Rust on the backend. The database would be some flavor of SQL. 
+
+- Improve my Website Tracker Application for managing the content updates, content metadata (like descriptions), bug reports, feature requests, and development log (new component). This will be done as I transition over to the new tech stack TBD. I will probably remove users being required and limit number of bugs / FRs made. The key is a new focus on what has happened dev-wise recently on the website.
+
+- Personal projects to improve and learn new skills. I would like to brush up on Java and my data science skills. I would like to learn C++ and Rust.
+
 ## Other Repositories:
 
 #### [CraigVersity](https://github.com/amm414/CS1530-Software-Engineering-Project): the repository holding the source code, documentation, testing, and other miscellaneous content surrounding the Fall 2019 software engineering project done as a group of 5 at Pitt. 
@@ -25,59 +51,6 @@ My Extended Resume with more Elaboration on Skills, Projects, and Abilities [PDF
 #### [My Project Repository](https://github.com/amm414/Projects): a repository that collects many different types of content largely found on my [personal website](https://andrew-morgan-website.herokuapp.com). 
 
 #### [Agent-Based Modeling](https://github.com/amm414/Agent-Based-Modeling): a repository on simulating worlds of autonomous agents that make decisions. Typically used to analyze the resulting system-level patterns that emerge and are present.
-
-
-&nbsp;
-
-## Other Content
-
-This section is a work in progress and not neccessarily updated in a timely fashion. Therefore, I recommend learning more about myself from my Website https://andrew-morgan-website.herokuapp.com.
-
-### Now A little about my interests:
-
-- 👀 I’m interested in many different areas. 
- 
-  + In programming, I find my interests lie in developing the backend of applications and algorithms that oganize and gain insights from data. 
-  
-  + As a CS and Stat major, I find data science and machine learning to be very interesting. I am trying to learn new techniques
-  and methods to analyze big data and high dimensional data. With these techniques, I am trying to analyze US Census data with regards to education and income.
-
-  + As an economist with a programming and statistical background, I am interested in utility theory and behaviorial economics. These directly connect with my 
-  underlying interest in Artificial Intelligence as these areas of economics can help improve AI models and agents. A current project I am working on is agent-based 
-  models, where agents defined by their utility functions and preferences put into a psecific situation. 
-  
-  + As an economist macroeconomic trends and events. Some macroeconomic trends and events that interest me are the 2008 recession and financial collaspe, 
-  income and wealth trends, and the effects and evolution of education on the GDP and global markets. 
-
-
-
-- 🌱 I’m currently learning:
-  
-  + Technically Full Stack web programming with Python and Flask. The frontend utilizes basic JavaScript and Bootstrap to create a 
-  simple and responsive website which holds my projects I have finished, new projects I am working on to become more knowledgeable 
-  of the domains I am interested in, and present and market myself as a good hire for any firm. 
-  
-  + Agent-Based Modeling and AI agent decision making. Utilizing probabilistic decision making and stochastic events to analyze situations like the 
-  Schelling segregation model that shows that even without racist agents, neighborhoods naturally trend towards homogeneity rather than heterogeneity. 
-  
-  + Data Science techniques utilizing Python. Primarily to analyze education and income/wealth data from the Census and Bureau of Labor Statistics. 
-  I have worked previous projects that utilized R, but I am trying to familiarize myself with Python's many libraries for data science. 
-
-## Future Plans
-
-
-- Utilize **Django** as backend framework for my website using RESTful API to manage interactions from frontend and users with backend and database. This migration from Flask to Django will take time. I hope to finish the migration by sometime in November (basically 2-3 months depending on other commitments).
-  
-- Improve the Agent-Based Modeling framework I am developing. I will release it as a seperate GitHub Repo and link it above. This is a personal interest of mine as it combines economics, macro-level trends, statistics and probability, and artificial intelligence. Additionally, there is not much open-source content for me to rely on, meaning I often am implementing not many others have done before me.
-  
-- Start my academic blog posts focusing on wage/income, wealth, education, economic growth, level of country's citizen satistifaction, and other macroeconomic metrics. Namely, I will focus on Education, Majors, and Degrees VS Wage, Income, and Wealth.
-  
-- Improve my Website Tracker Application for managing the content updates, content metadata (like descriptions), bug reports, feature requests, users, and development log (new component). This will be done as I transition over to Django.
-  
-- Frontend revitalized! I will refactor my frontend and content on the website as I transition to Django. I will initially use a similar frontend templating language similar to Jinja for Flask applications. This will be done when the Django application is launched. 
-  
-- Frontend Upgrade! I hope to eventually implement a React (most likely; possibly Vue) frontend to connect to the Restful API. This task will take time and most likely will be for next year. Largely depends on time commitments, how involved my content gets (like agent-based modeling and analyzing economic data), and the amount of time it takes to transition to Django.
-
 
 <!---
 amm414/amm414 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
